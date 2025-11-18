@@ -1,0 +1,222 @@
+sympGrps[6,2].maxSubGrpsByClass[1][1] := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][1].self :=
+Group(
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  1,  1,  0],
+    [ 0,  1,  0,  0,  1,  0],
+    [ 0,  0,  1,  0,  1,  0],
+    [ 0,  1,  1,  1,  1,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 1,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 1,  1,  0,  0,  1,  0],
+    [ 1,  1,  0,  0,  0,  1]
+]
+* Z(2)
+);;
+sympGrps[6,2].maxSubGrpsByClass[1][1].order := 23040;;
+sympGrps[6,2].maxSubGrpsByClass[1][1].orderFactors := "2^9 * 3^2 * 5";;
+sympGrps[6,2].maxSubGrpsByClass[1][1].strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd.self := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd.order := -1;;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd.orderFactors := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd.strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][1].solRsd.perSubGrps := [];;
+
+sympGrps[6,2].maxSubGrpsByClass[1][2] := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][2].self :=
+Group(
+[
+    [ 1,  1,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  1],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 0,  1,  0,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  0,  1],
+    [ 0,  0,  0,  0,  1,  0]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  1,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 1,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 1,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  0,  1,  0,  1]
+]
+* Z(2)
+);;
+sympGrps[6,2].maxSubGrpsByClass[1][2].order := 4608;;
+sympGrps[6,2].maxSubGrpsByClass[1][2].orderFactors := "2^9 * 3^2";;
+sympGrps[6,2].maxSubGrpsByClass[1][2].strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd.self := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd.order := -1;;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd.orderFactors := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd.strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][2].solRsd.perSubGrps := [];;
+
+sympGrps[6,2].maxSubGrpsByClass[1][3] := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][3].self :=
+Group(
+[
+    [ 1,  1,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  1],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 0,  0,  1,  0,  0,  0],
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  0,  0,  0,  1],
+    [ 0,  0,  0,  1,  0,  0]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 1,  0,  0,  0,  0,  1]
+]
+* Z(2)
+);;
+sympGrps[6,2].maxSubGrpsByClass[1][3].order := 10752;;
+sympGrps[6,2].maxSubGrpsByClass[1][3].orderFactors := "2^9 * 3 * 7";;
+sympGrps[6,2].maxSubGrpsByClass[1][3].strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd.self := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd.order := -1;;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd.orderFactors := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd.strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][3].solRsd.perSubGrps := [];;
+
+sympGrps[6,2].maxSubGrpsByClass[1][4] := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][4].self :=
+Group(
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  1,  1,  0],
+    [ 0,  1,  0,  0,  1,  0],
+    [ 0,  0,  1,  0,  1,  0],
+    [ 0,  1,  1,  1,  1,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 1,  0,  0,  0,  0,  1],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 0,  0,  0,  0,  0,  1]
+]
+* Z(2)
+,
+[
+    [ 0,  0,  0,  0,  0,  1],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  1,  0,  0],
+    [ 0,  0,  0,  0,  1,  0],
+    [ 1,  0,  0,  0,  0,  0]
+]
+* Z(2)
+);;
+sympGrps[6,2].maxSubGrpsByClass[1][4].order := 4320;;
+sympGrps[6,2].maxSubGrpsByClass[1][4].orderFactors := "2^5 * 3^3 * 5";;
+sympGrps[6,2].maxSubGrpsByClass[1][4].strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd := rec();;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd.self := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd.order := -1;;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd.orderFactors := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd.strDsc := "";;
+sympGrps[6,2].maxSubGrpsByClass[1][4].solRsd.perSubGrps := [];;
+

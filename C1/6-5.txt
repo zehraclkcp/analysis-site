@@ -1,0 +1,232 @@
+sympGrps[6,5].maxSubGrpsByClass[1][1] := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][1].self :=
+Group(
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  4]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  4,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  3,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  3,  0],
+    [ 0,  0,  2,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 3,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  2,  0,  0,  0,  0],
+    [ 0,  0,  2,  0,  0,  0],
+    [ 0,  0,  0,  2,  0,  0],
+    [ 3,  3,  0,  0,  2,  0],
+    [ 3,  2,  0,  0,  0,  3]
+]
+* Z(5)
+);;
+sympGrps[6,5].maxSubGrpsByClass[1][1].order := 117000000000;;
+sympGrps[6,5].maxSubGrpsByClass[1][1].orderFactors := "2^9 * 3^2 * 5^9 * 13";;
+sympGrps[6,5].maxSubGrpsByClass[1][1].strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd.self := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd.order := -1;;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd.orderFactors := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd.strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][1].solRsd.perSubGrps := [];;
+
+sympGrps[6,5].maxSubGrpsByClass[1][2] := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][2].self :=
+Group(
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  4]
+]
+* Z(5)
+,
+[
+    [ 2,  3,  0,  0,  0,  0],
+    [ 2,  0,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  2,  2],
+    [ 0,  0,  0,  0,  3,  0]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  1,  0,  0,  0],
+    [ 0,  0,  0,  4,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  2,  3,  0,  0],
+    [ 0,  0,  2,  0,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 3,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 2,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  3,  0,  3]
+]
+* Z(5)
+);;
+sympGrps[6,5].maxSubGrpsByClass[1][2].order := 4500000000;;
+sympGrps[6,5].maxSubGrpsByClass[1][2].orderFactors := "2^8 * 3^2 * 5^9";;
+sympGrps[6,5].maxSubGrpsByClass[1][2].strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd.self := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd.order := -1;;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd.orderFactors := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd.strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][2].solRsd.perSubGrps := [];;
+
+sympGrps[6,5].maxSubGrpsByClass[1][3] := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][3].self :=
+Group(
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  4]
+]
+* Z(5)
+,
+[
+    [ 2,  0,  3,  0,  0,  0],
+    [ 2,  0,  0,  0,  0,  0],
+    [ 0,  2,  0,  0,  0,  0],
+    [ 0,  0,  0,  0,  2,  0],
+    [ 0,  0,  0,  2,  0,  2],
+    [ 0,  0,  0,  3,  0,  0]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 3,  0,  0,  0,  0,  3]
+]
+* Z(5)
+);;
+sympGrps[6,5].maxSubGrpsByClass[1][3].order := 23250000000;;
+sympGrps[6,5].maxSubGrpsByClass[1][3].orderFactors := "2^7 * 3 * 5^9 * 31";;
+sympGrps[6,5].maxSubGrpsByClass[1][3].strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd.self := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd.order := -1;;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd.orderFactors := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd.strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][3].solRsd.perSubGrps := [];;
+
+sympGrps[6,5].maxSubGrpsByClass[1][4] := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][4].self :=
+Group(
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  1,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  4,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 3,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  3,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  3,  0],
+    [ 0,  0,  2,  0,  0,  0],
+    [ 0,  0,  0,  0,  0,  3]
+]
+* Z(5)
+,
+[
+    [ 1,  0,  0,  0,  0,  0],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 0,  0,  0,  0,  0,  4]
+]
+* Z(5)
+,
+[
+    [ 2,  0,  0,  0,  0,  3],
+    [ 0,  3,  0,  0,  0,  0],
+    [ 0,  0,  3,  0,  0,  0],
+    [ 0,  0,  0,  3,  0,  0],
+    [ 0,  0,  0,  0,  3,  0],
+    [ 2,  0,  0,  0,  0,  0]
+]
+* Z(5)
+);;
+sympGrps[6,5].maxSubGrpsByClass[1][4].order := 1123200000;;
+sympGrps[6,5].maxSubGrpsByClass[1][4].orderFactors := "2^10 * 3^3 * 5^5 * 13";;
+sympGrps[6,5].maxSubGrpsByClass[1][4].strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd := rec();;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd.self := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd.order := -1;;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd.orderFactors := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd.strDsc := "";;
+sympGrps[6,5].maxSubGrpsByClass[1][4].solRsd.perSubGrps := [];;
+
